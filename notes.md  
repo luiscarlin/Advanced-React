@@ -5,6 +5,9 @@
 - does pages and creating layout
 - routing based on directory structure
 - does webpack for you configuration
+- framework. Does all the tooling for you behind the scenes
+- SEO/ preloading/ code splitting
+- getInitialProps => wait for data to resolve
 
 ## Apolo
 - replaces redux
