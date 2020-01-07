@@ -1,0 +1,23 @@
+# Notes
+
+## NextJS
+- server side rendering
+- does pages and creating layout
+- routing based on directory structure
+- does webpack for you configuration
+
+## Apolo
+- replaces redux
+- performs mutation of data
+- does caching/ app state
+
+## Prisma
+- provides interface APIs to CRUD operations in database
+- we will interface with this API
+- provides GraphQL
+
+## GraphQL Yoga
+- query and mutation resolvers
+- service side logic
+- authentication and permissions
+- sending emails
