@@ -18,9 +18,22 @@
 - provides interface APIs to CRUD operations in database
 - we will interface with this API
 - provides GraphQL
+- open source library
+- sits on top of a database
+- provides a graphql api to do CRUD operations
+- you can run your own prisma as well as DB
 
 ## GraphQL Yoga
 - query and mutation resolvers
 - service side logic
 - authentication and permissions
 - sending emails
+
+## GraphQL
+- specification/ standard to serve and receive data
+- agnostic to language and what the "consumer" is
+- replaces rest or it can wrap rest
+- single endpoint
+- returns json with only the data you requested
+- data has to be typed
+- by default there is no querying functions like sorting, filter, etc
